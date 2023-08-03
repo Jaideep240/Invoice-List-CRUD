@@ -1,0 +1,33 @@
+.searchBox {
+    margin-left: 0.5rem !important;
+    background-color: #FFFFFF !important;
+    border-radius: 0.3rem !important;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.btnGrp{
+    margin-left: 1rem !important;
+}
+
+.parentBodyHeader{
+    padding: 1rem 0.5rem !important;
+    display:flex;
+    justify-content: space-between;
+    width: 95%;
+}
+
+.refreshBtn{
+    color: white !important;
+    margin-left:1rem !important;
+    background-color: #fc7500 !important;
+}
+
+.advanceSearchBtn {
+    margin-left: auto !important;
+    background-color: #8fd163 !important;
+    color: black !important;
+  }
+.search{
+    display: flex;
+}

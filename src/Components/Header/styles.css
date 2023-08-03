@@ -1,0 +1,22 @@
+.header{
+    padding: 0;
+    background-color: white;
+    border: 4px solid #fc7500;
+    height: 80px;
+}
+.images{
+    display: flex;
+}
+.abclogo{
+    margin: 10px;
+    width: 170px;
+}
+.hrclogo{
+    width: 170px;
+    margin: 15px 33% 0 33%;
+}
+span{
+    color: #db4437;
+    font-weight: bold;
+    margin-left: 15px;
+}
